@@ -26,7 +26,7 @@ La información de cada línea se corresponde con lo siguiente:
 
 Así, la primera línea de los datos mostrada arriba indica que en el partido disputado el 13/12/2014 entre Ugo Humbert y Pedro Martínez, el primer set lo ganó Martínez por 7 juegos a 6; el segundo set lo ganó Humbert por 6 a 2, y entonces se disputó el tercer set que ganó Martínez por 6 a 3, ganando el partido.  Humbert cometió 8 errores no forzados y 10 Martínez, y el partido se disputó en una superficie de tierra.  En la segunda línea, se muestra que en el partido disputado el 9/7/2020 entre Adrian Mannarino y Botic Van de Zandschulp, Botic ganó los dos primeros sets por 6 a 1, y por tanto, no se disputó el tercer set lo que se indica por “0-0”.  
 
-Para almacenar los datos de un partido se usarán **obligatoriamente** las siguientes namedtuple, que representan los datos un set o parcial y de un partido, respectivamente:
+Para almacenar los datos de un partido se usarán **obligatoriamente** las siguientes NamedTuple, que representan los datos un set o parcial y de un partido, respectivamente:
 
 ```python
 Parcial = NamedTuple('Parcial', 
