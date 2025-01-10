@@ -527,7 +527,6 @@ La superficie con más jugadores distintos es Tierra en la que han jugado 63 ten
 EJERCICIO 12==================================================
 Test de 'mas_errores_por_jugador'
 El partido con más errores por cada jugador es
-El partido con más errores por cada jugador es
 Sebastian Korda --> PartidoTenis(fecha=datetime.date(2011, 11, 10), jugador1='John Isner', jugador2='Sebastian Korda', superficie='Hierba', resultado=[Parcial(juegos_j1=3, juegos_j2=6), Parcial(juegos_j1=6, juegos_j2=7), Parcial(juegos_j1=0, juegos_j2=0)], errores_nf1=12, errores_nf2=10)
 Ben Shelton --> PartidoTenis(fecha=datetime.date(2013, 8, 12), jugador1='Lorenzo Musetti', jugador2='Ben Shelton', superficie='Tierra', resultado=[Parcial(juegos_j1=1, juegos_j2=6), Parcial(juegos_j1=2, juegos_j2=6), Parcial(juegos_j1=0, juegos_j2=0)], errores_nf1=8, errores_nf2=19)
 Benjamin Bonzi --> PartidoTenis(fecha=datetime.date(2016, 1, 15), jugador1='Benjamin Bonzi', jugador2='Diego Schwartzman', superficie='Dura', resultado=[Parcial(juegos_j1=7, juegos_j2=6), Parcial(juegos_j1=7, juegos_j2=6), Parcial(juegos_j1=0, juegos_j2=0)], errores_nf1=16, errores_nf2=15)
